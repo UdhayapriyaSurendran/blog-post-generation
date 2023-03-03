@@ -1,0 +1,32 @@
+#loading{
+    position: fixed;
+    width: 10px;
+    height: 100vh;
+    background: #282a35 url('https://media.tenor.com/image/711b007a4e9a8b88af785c36be42909d/tenpor.gif') no-repeat center;
+    z-index: 9999;
+    display: none;
+
+}
+
+
+body{
+    background: #E69A8DFF;
+   
+}
+
+.jumbotron{
+    background:LemonChiffon;
+
+    margin-top: 15px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.lead{
+    display: flex;
+    justify-content:center;
+}
